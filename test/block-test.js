@@ -2,7 +2,6 @@ var assert = require('chai').assert;
 // var Block = require('../lib/block');
 var Board = require('../lib/board');
 var Block = require('../lib/block');
-require('locus')
 
 describe('Game Block', function() {
 
